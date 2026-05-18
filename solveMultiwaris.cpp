@@ -20,3 +20,5 @@ public:
             cout << " pekerja di buat\n" << endl;
         }
 };
+
+class pelajar : public orang
